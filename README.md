@@ -30,13 +30,11 @@ Usage
 
 ```
 
-{{$laravelDashPackageName->scrumBoard()}}
-{{$laravelDashPackageName->wikis()}}
-{{$laravelDashPackageName->wiki()}}
-{{$laravelDashPackageName->groups()}}
-{{$laravelDashPackageName->group()}}
-{{$laravelDashPackageName->projects()}}
-{{$laravelDashPackageName->project()}}
+{{$laravelDashPackageName->widget()}}
+{{$laravelDashPackageName->posts()}}
+{{$laravelDashPackageName->post()}}
+{{$laravelDashPackageName->crud->update()}}
+{{$laravelDashPackageName->crud->read()}}
 
 ```
 
